@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+  h1 {
+    -webkit-box-shadow: 0px 0px #0000f8ca;
+    box-shadow: 0px 0px #0000f8ca;
+    color: #0000f8ca;
+    font-size: normal;
+    font-weight: bold;
+    text-align: center;
+
+  } 
+  body p img {
+    border: 10px solid #00fa35
+  }
+.keyword {
+    color: #f80004;
+    font-weight: bold;
+    text-decoration: overline;
+}
